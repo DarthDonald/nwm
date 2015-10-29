@@ -1,0 +1,292 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+body{
+    background: #fff;
+    color: #2f365d;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+.in{
+    font-size: 18px;
+    padding: 7px 17px;
+    border: 0;
+    color: #fff;
+    margin: 40px 10px;
+    background: #73dda3;
+    border-radius: 0;
+}
+
+.up{
+    font-size: 18px;
+    padding: 7px 17px;
+    border: 0;
+    color: #fff;
+    margin: 40px 10px;
+    background: #99bfe5;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.enter{
+    height: 70px;
+    width: 80%;
+    text-align: right;
+    padding: 0 10%;
+}
+
+.enter  #in, #up{
+    margin-top: 13px;
+}
+
+.head{
+    background: url("https://leto4d.storage.yandex.net/rdisk/db26e47b0366e5855907d358a48bf283076962d06ce5201e8d9a61879011db2b/inf/w9M5Lx-CfZ1X0-2Cu_AWLTHVaIKh59p3px8SZb4EjnUXoYWQDQ9CNfwmDqZclL5cin23haGmTrD7TPp5xt6Ufg==?uid=0&filename=Coast.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&rtoken=876553fcd08c3e4d9acc94b407c85688&force_default=no&ycrid=na-0893647eac084783a0564ab2a41d8ee0-downloader4g") center center no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 5px 100px;
+    margin: 0px 0;;
+    font-size: 40px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.support{
+    padding: 0px 5%;
+    width: 90%;
+    display: flex;
+}
+
+.point{
+    width: 25%;
+    margin: 0 5%
+}
+
+.img{
+    height: 260px;
+    width: 100%;
+    border-radius: 50%;
+    background-size: contain;
+}
+
+.img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.account{
+    background: url("https://leto13e.storage.yandex.net/rdisk/d5ba5da3a267a4ac91f40049460974e2a1fa4f2bc9e59abc9d9720a7ba05a645/inf/qcq9z_98eZhq8VUlIiYipYCWf0oN8_olPLD-8C3ijtPSg-u2JrunBt0nspkSVV1_48nLXlPEqstktCw8nBgvMg==?uid=0&filename=Computer.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&rtoken=f23cf6524e8ad84523cf18040e9d13c0&force_default=no&ycrid=na-a9143c41d58ee6a4d3f2e2e95c8db37e-downloader12g") center center no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 5px 100px;
+    margin: 50px 0;;
+    font-size: 40px;
+    height: 600px;
+}
+
+.mobile{
+    background: url("https://leto46g.storage.yandex.net/rdisk/749260ebbdc3ebf4a2c0e459f03c4e0587df147ca9f2cc39a867ecaed01faa6b/inf/8UPT4cnq0OJAx3G-7Y5w3EM0-Yk2nQ6c5rbSORBEG9hBu87e16fDBBliMmoMET2xUIDgYlM3AqKpxrnfcyCbPQ==?uid=0&filename=Mobile%202.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&rtoken=f23cf6524e8ad84523cf18040e9d13c0&force_default=no&ycrid=na-d7516fe20c073c65f9ede9465928ddac-downloader12g") center center no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 5px 100px;
+    margin: 50px 0;;
+    font-size: 40px;
+    height: 550px;
+    margin-bottom: 0;
+}
+
+.footer{
+    height: 100px;
+    display: flex;
+    padding: 100px 0;
+    padding-top: 0;
+}
+
+.network{
+    width:40%;
+    padding: 20px 100px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.network h2{
+    font-weight: 600;
+    font-size: 33px;
+}
+
+.network a{
+    color: #2f365d;
+    font-size: 43px;
+    margin-right: 55px;
+}
+
+.autors{
+    width: 45%;
+    float: right;
+    font-size: 15px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+/*Registration*/
+
+.roof{
+    border-bottom: 1px solid #e6e6e6;
+    height: 40px;
+    width: auto;
+    padding: 5px 30px;
+    display: flex;
+}
+
+.back{
+    border-radius: 50%;
+    height: 39px;
+    width:39px;
+    font-size: 30px;
+    padding: inherit;
+}
+
+.back:hover{
+    background: #e6e6e6;
+}
+
+.logo{
+    width: 100%;
+    padding: 0px 50px;
+    font-size: 25px;
+    text-align: right;
+}
+
+.logo h2{
+    margin: 0;
+}
+
+input{
+    font-size: 18px;
+    width: 300px;
+    padding: 3px 3px;
+    margin: 7px 10px;
+}
+
+.regcontent{
+    display: flex;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.registration{
+    text-align: left;
+    padding: 30px 100px;
+    width: 40%;
+}
+
+.registration label{
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.registration h1{
+    margin: 20px 10px;
+}
+
+/*Sign In*/
+
+.entercontent{
+    display: flex;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.signin{
+    padding: 45px 100px;
+    width: 100%;
+    float: right;
+}
+
+.signin h1{
+    margin: 20px 10px;
+    margin-bottom: 80px;
+}
+
+/*Unsuccessfull sign-in*/
+
+.warning{
+    height: 50px;
+    color: #ac2525;
+    background: rgba(170, 59, 59, 0.47);
+    width: 300px;
+    border: 1px solid #dd0000;
+    padding: 0;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.warning p{
+    margin: 4px 7px;
+}
+
+#unss{
+    margin-bottom: 20px;
+}
+
+/*Cabinet*/
+
+.user{
+    width: 100%;
+    display: flex;
+    color: #2f365d;
+}
+
+.menu{
+    width: 20%;
+    background: #fcfcfc;
+    padding: 30px 20px;
+    position: static;
+}
+
+.user-id{
+    display: flex;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #808080;
+}
+
+.user-id img{
+    height: 70px;
+    width: 70px;
+    background: #000;
+    margin: 0 20px;
+}
+
+.menu div{
+    width: 100%;
+}
+
+.menu div a{
+    text-decoration: none;
+    float: left;
+    color: #2f365d;
+    font-size: 18px;
+    width: 100%;
+    padding: 15px 0;
+}
+
+.menu div a:hover{
+    background: #dddddd;
+}
+
+.content{
+    width: 80%;
+    padding: 30px 0;
+}
+
+/*Friends*/
+
+.friends{
+    width: 100%;
+}
+
+.friend{
+    
+}
